@@ -1,0 +1,58 @@
+*{box-sizing: border-box;
+padding: 0;
+margin: 0;
+font-size: 16px;}
+
+.part1{background-image: url(../img/drew-coffman-1872.jpg);
+background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+position: relative;}
+ul{list-style: none;
+}
+ul li a{margin-left: 17px;
+    color: white;
+}
+ul li a:hover{color: aliceblue;}
+.content{position: absolute;
+top: 40%;
+left: 30%;}
+.button1{background-color: #8e7754;}
+.paragraph , small{color: #cccccc;
+font-size: 1rem;}
+h1{color: #ffffff;
+font-size: 4rem;}
+.iconi{border: solid 1px;
+border-radius: 50%;
+padding: 5px;}
+.part3{box-shadow: #cccccc;}
+.part3 .image1 img{width: 60%;}
+.iconii{    border: 0.5px solid #929292;
+    border-radius: 50%;
+    padding: 10px;
+    margin-right: 5px;
+    background-color: #8e7754;
+    color: #fff;}
+    .row1{background-color: #403d38;
+    color: white;}
+    .party1{width: 30%;
+    margin-top: 30px;}
+    .party1 .para{border-bottom: solid 1px black;}
+    .party1 a {text-decoration: none;
+    color: white;
+margin: 10px;
+display: block;}
+.row2{background-color: #353330;}
+.row2 .endfoot a i{width: 1%;
+    color: #8c8a86;
+    margin-right: 15px;}
+    .row2 .endfoot a {border: solid 1px white;
+    border-radius: 50%;
+padding: 1px;}
+.row2 .endfoot a i{padding: 5px; }
+.row2 .endfoot a:hover {background-color: rgb(126, 126, 182);
+}
+.row2 .endfoot a:hover i{color: white;}
+.row2 .endfoot a:hover .googl{color: rgb(189, 89, 89);}
+.buton1{margin-bottom: 30%;}
